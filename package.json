@@ -1,0 +1,23 @@
+{
+  "name": "Course_BradSchiff_FullStackWebDevelopment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathancs/Course_BradSchiff_FullStackWebDevelopment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathancs/Course_BradSchiff_FullStackWebDevelopment/issues"
+  },
+  "homepage": "https://github.com/jonathancs/Course_BradSchiff_FullStackWebDevelopment#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
